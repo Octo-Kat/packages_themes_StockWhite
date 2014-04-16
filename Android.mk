@@ -7,6 +7,4 @@ LOCAL_PACKAGE_NAME := StockWhite
 
 LOCAL_AAPT_FLAGS := -c mdpi,hdpi,xhdpi,xxhdpi -x 10
 
-LOCAL_CERTIFICATE := releasekey
-
 include $(BUILD_PACKAGE)
