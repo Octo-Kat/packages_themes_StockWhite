@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := template
+LOCAL_PACKAGE_NAME := StockWhite
 
 LOCAL_AAPT_FLAGS := -c mdpi,hdpi,xhdpi,xxhdpi -x 10
 
