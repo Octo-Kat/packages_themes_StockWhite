@@ -37,6 +37,10 @@
     <item name="bright_foreground_light_disabled">@color/bright_foreground_light_disabled</item>
     <item name="bright_foreground_light_inverse">@color/bright_foreground_dark</item>
     <item name="darker_gray">@color/darker_gray</item>
+    <item name="default_dialog_text_holo_dark">@color/default_dialog_text_holo_dark</item>
+    <item name="default_dialog_text_holo_light">@color/default_dialog_text_holo_light</item>
+    <item name="default_dialog_divider_holo_dark">@color/default_dialog_divider_holo_dark</item>
+    <item name="default_dialog_divider_holo_light">@color/default_dialog_divider_holo_light</item>
     <item name="dim_foreground_dark">@color/dim_foreground_dark</item>
     <item name="dim_foreground_dark_disabled">@color/dim_foreground_dark_disabled</item>
     <item name="dim_foreground_dark_inverse">@color/dim_foreground_dark_inverse</item>
