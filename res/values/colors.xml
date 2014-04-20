@@ -53,6 +53,10 @@
     <color name="dim_foreground_light_disabled">#80323232</color>
     <color name="dim_foreground_light_inverse">#bebebe</color>
     <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="default_dialog_text_holo_dark">#fff3f3f3</color>
+    <color name="default_dialog_text_holo_light">#ff000000</color>
+    <color name="default_dialog_divider_holo_dark">#fff3f3f3</color>
+    <color name="default_dialog_divider_holo_light">#ff000000</color>
     <color name="facelock_spotlight_mask">#CC000000</color>
     <color name="group_button_dialog_focused_holo_dark">#2699cc00</color>
     <color name="group_button_dialog_focused_holo_light">#4699cc00</color>
