@@ -16,7 +16,7 @@
  # limitations under the License.
  -->
 
-<project name="TemplateTheme" default="help">
+<project name="StockWhite" default="help">
 
     <!-- ADD YOUR ANDROID SDK PATH TO THIS FILE -->
     <loadproperties srcFile="local.properties" />

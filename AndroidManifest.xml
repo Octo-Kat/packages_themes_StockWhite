@@ -19,11 +19,11 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.elelinux.theme.template"
+    package="com.octos.theme.stockwhite"
     android:hasCode="false"
     android:versionCode="1" android:versionName="1.0">
 
-    <application name="template" android:hasCode="false" android:icon="@drawable/icon" android:label="template">
+    <application name="StockWhite" android:hasCode="false" android:icon="@drawable/icon" android:label="StockWhite">
     </application>
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19" />
@@ -32,8 +32,8 @@
     <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme
-        pluto:themeId="template"
-        pluto:styleId="@style/template"
+        pluto:themeId="StockWhite"
+        pluto:styleId="@style/StockWhite"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"
