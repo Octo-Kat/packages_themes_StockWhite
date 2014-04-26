@@ -17,11 +17,11 @@
  -->
 
 <resources>
-    <string name="app_name">template</string>
-    <string name="theme_name">template</string>
-    <string name="style_appearance_name">template</string>
-    <string name="author">elelinux</string>
-    <string name="copyright">Elelinux</string>
+    <string name="app_name">StockWhite</string>
+    <string name="theme_name">StockWhite</string>
+    <string name="style_appearance_name">StockWhite</string>
+    <string name="author">red3razor</string>
+    <string name="copyright">red3razor</string>
     <string name="capital_on">" "</string>
     <string name="capital_off">" "</string>
 </resources>

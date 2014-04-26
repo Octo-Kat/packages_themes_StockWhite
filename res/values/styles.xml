@@ -17,6 +17,6 @@
  -->
 
 <resources>
-   <!-- TEMPLATE THEME -->
-    <style name="template" parent="@android:style/Theme" />
+   <!-- THEME -->
+    <style name="StockWhite" parent="@android:style/Theme" />
 </resources>
